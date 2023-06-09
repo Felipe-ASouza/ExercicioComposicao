@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\bin\Debug\Composicao.exe
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\bin\Debug\Composicao.pdb
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\obj\Debug\Composicao.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\obj\Debug\Composicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\obj\Debug\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\obj\Debug\Composicao.exe
+C:\Users\Felipe\Desktop\C#\Composicao\Composicao\obj\Debug\Composicao.pdb
